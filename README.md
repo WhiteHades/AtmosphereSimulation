@@ -1,1 +1,1 @@
-# assignment2_efaz
+Using C#, OOP and design patterns to simulate gas layer evolution.
